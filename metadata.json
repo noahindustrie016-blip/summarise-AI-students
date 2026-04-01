@@ -1,0 +1,5 @@
+{
+  "name": "summarise.ai",
+  "description": "A simple PDF summarizer for students to quickly get key insights from their academic documents.",
+  "requestFramePermissions": []
+}
